@@ -2,12 +2,19 @@
 
 > Your toolkit for digital sovereignty in the surveillance age
 
-!!TODO Short description
+Next.js 15 application showcasing privacy-focused Web3 projects. Deployed via Vercel to pbp.web3privacy.info
+
+Features include:
+- Stack: React 19, TypeScript, Tailwind CSS 4
+- GitHub integration for dynamic content loading
+
 
 ## Authors
+* **ilge.ustun** [Github](https://github.com/ilge-ustun) - dev
 * **Jensei** ([@_jensei](https://x.com/jensei_)) - main concept, design
 * **Mykola Siusko** ([@nicksvyaznoy](https://x.com/nicksvyaznoy)) - Pagency framework, mentoring
 * **Tree** ([@tree.fail](https://bsky.app/profile/tree.fail)) - technical support
+* **web3kitty** ([Github](https://github.com/web3kitty)) - emotional support cat
 
 
 ## Table of Content
