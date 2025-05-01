@@ -2,7 +2,8 @@
 
 > Your toolkit for digital sovereignty in the surveillance age
 
-Next.js 15 application showcasing privacy-focused Web3 projects. Deployed via Vercel to pbp.web3privacy.info
+Next.js 15 application showcasing privacy-focused Web3 projects. 
+Deployed via Vercel to [pbp.web3privacy.info](https://pbp.web3privacy.info)
 
 Features include:
 - Stack: React 19, TypeScript, Tailwind CSS 4
