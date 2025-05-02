@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Privacy Glossary",
+    "description": "made by brave",
+    "image": "/images/brave.png",
+    "link": "https://brave.com/glossary/"
+  },
+  {
+    "title": "Terms and Definitions",
+    "description": "made by nist",
+    "image": "/images/nist.svg",
+    "link": "https://csrc.nist.gov/glossary"
+  },
+  {
+    "title": "Def Con Glossary",
+    "description": "made by defconparrot",
+    "image": "/images/defcon.png",
+    "link": "https://defcon-glossary.netlify.app/"
+  },
+  {
+    "title": "Dictionary of Cryptography",
+    "description": "made by ritter",
+    "image": "/images/ritter.svg",
+    "link": "http://www.ciphersbyritter.com/GLOSSARY.HTM"
+  },
+  {
+    "title": "Cyber Security Terms",
+    "description": "made by sans",
+    "image": "/images/sans.png",
+    "link": "https://www.sans.org/security-resources/glossary-of-terms/"
+  }
+]
