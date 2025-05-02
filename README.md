@@ -4,7 +4,7 @@
 
 Next.js 15 application showcasing privacy-focused Web3 projects.
 
-Deployed via Vercel to [pbp.web3privacy.info](https://pbp.web3privacy.info)
+Deployed via GitHub Pages to build.web3privacy.info
 
 ## Features include:
 - Stack: React 19, TypeScript, Tailwind CSS 4
@@ -17,6 +17,7 @@ Deployed via Vercel to [pbp.web3privacy.info](https://pbp.web3privacy.info)
 * **Mykola Siusko** ([@nicksvyaznoy](https://x.com/nicksvyaznoy)) - Pagency framework, mentoring
 * **Tree** ([@tree.fail](https://bsky.app/profile/tree.fail)) - technical support
 * **web3kitty** ([Github](https://github.com/web3kitty)) - emotional support cat
+* **mf** ([Github](https://github.com/debelg)) - deployment
 
 
 ## Table of Content
