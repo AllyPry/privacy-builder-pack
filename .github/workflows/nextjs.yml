@@ -78,6 +78,9 @@ jobs:
       - name: Build with Next.js
         working-directory: ./app
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
+      - name: Create .nojekyll file
+        working-directory: ./app
+        run: touch ./out/.nojekyll
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
