@@ -2,7 +2,7 @@
   {
     "title": "Privacy Glossary",
     "description": "made by brave",
-    "image": "/images/brave.png",
+    "image": "/images/brave.svg",
     "link": "https://brave.com/glossary/"
   },
   {
@@ -14,7 +14,7 @@
   {
     "title": "Def Con Glossary",
     "description": "made by defconparrot",
-    "image": "/images/defcon.png",
+    "image": "/images/defcon.svg",
     "link": "https://defcon-glossary.netlify.app/"
   },
   {
@@ -26,7 +26,7 @@
   {
     "title": "Cyber Security Terms",
     "description": "made by sans",
-    "image": "/images/sans.png",
+    "image": "/images/sans.svg",
     "link": "https://www.sans.org/security-resources/glossary-of-terms/"
   }
 ]
