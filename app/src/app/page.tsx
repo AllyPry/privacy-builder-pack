@@ -24,16 +24,17 @@ export default function Home() {
             onClick={() => {}}
             disabled={false}
           >
+          <Link href="https://github.com/web3privacy/privacy-builder-pack">
             <Image
               src="/icons/cursor.svg"
               alt="Documentation"
               width={20}
               height={20}
               className="w-auto h-auto"
-              href="https://github.com/web3privacy/privacy-builder-pack"
             />{" "}
             Documentation
           </button>
+          </Link>
         </div>
         <CoreComponents />
         <GetStarted />
