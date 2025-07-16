@@ -30,6 +30,7 @@ export default function Home() {
               width={20}
               height={20}
               className="w-auto h-auto"
+              href="https://github.com/web3privacy/privacy-builder-pack"
             />{" "}
             Documentation
           </button>
