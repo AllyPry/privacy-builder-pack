@@ -1,6 +1,5 @@
 "use client"
 import CoreComponents from "@/components/CoreComponents"
-import Image from "next/image"
 import Hero from "@/components/Hero"
 import GetStarted from "@/components/GetStarted"
 import Link from "next/link"
