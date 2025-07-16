@@ -16,11 +16,9 @@ export default function Home() {
           >
             Get Started
           </Link>
-        </div>
-        <div className="flex space-x-4 mt-2 mb-20 self-start">
           <Link
             href="https://github.com/web3privacy/privacy-builder-pack"
-            className="bg-black text-white px-4 sm:px-12 py-2 rounded-md disabled:opacity-50 cursor-pointer disabled:hover:cursor-default text-xs sm:text-base hover-shine"
+            className="bg-white text-black px-4 sm:px-12 py-2 rounded-md disabled:opacity-50 cursor-pointer disabled:hover:cursor-default text-xs sm:text-base hover-shine"
           >
             Documentation
           </Link>
