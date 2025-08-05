@@ -1,4 +1,4 @@
-# 1. Government Tracking of C-19 Contacts
+# 1123423434342. Government Tracking of C-19 Contacts
 During the COVID-19 pandemic, the Czech government implemented tracking apps and data collection to monitor the spread of the virus, raising concerns about data privacy and retention leading to potential overreach in personal data collection, lack of transparency on data storage and proof-of-deletion.
 
 # 2. Czech Telecom Data Retention Controversy
