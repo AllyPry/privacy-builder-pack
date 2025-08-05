@@ -1,604 +1,2467 @@
 [
   {
-    "category": "Integrated Development Environments (IDE)",
-    "description": "Development libraries and frameworks.",
+    "category": "Development Tools",
+    "description": "Web3/Ethereum development, IDEs, blockchain explorers",
     "items": [
       {
-        "name": "Remix",
-        "link": "https://remix.ethereum.org/",
-        "description": "A web-based IDE for developing smart contracts.",
         "tags": [
           "ethereum",
           "framework",
           "browser"
-        ]
+        ],
+        "name": "Remix",
+        "description": "A web-based IDE for developing smart contracts.",
+        "link": "https://remix.ethereum.org/"
       },
       {
-        "name": "ChainIDE",
-        "link": "https://chainide.com/",
-        "description": "A cloud-based multi-chain IDE.",
         "tags": [
           "ethereum",
           "framework",
           "decentralised",
           "browser"
-        ]
+        ],
+        "name": "ChainIDE",
+        "description": "A cloud-based multi-chain IDE.",
+        "link": "https://chainide.com/"
       },
       {
+        "tags": [
+          "ethereum",
+          "framework"
+        ],
         "name": "Hardhat",
-        "link": "https://hardhat.org/",
         "description": "A development environment focused on flexibility and performance.",
+        "link": "https://hardhat.org/"
+      },
+      {
         "tags": [
           "ethereum",
           "framework"
-        ]
-      },
-      {
+        ],
         "name": "Scaffold-ETH 2",
-        "link": "https://scaffoldeth.io/",
         "description": "Open source forkable Ethereum dev stack.",
+        "link": "https://scaffoldeth.io/"
+      },
+      {
         "tags": [
           "ethereum",
           "framework"
-        ]
-      },
-      {
+        ],
         "name": "Foundry",
-        "link": "https://getfoundry.sh/",
         "description": "Manages your dependencies, compiles your project, runs tests, and deploys.",
+        "link": "https://getfoundry.sh/"
+      },
+      {
+        "tags": [
+          "resources"
+        ],
+        "name": "Neovim",
+        "description": "Hyperextensible Vim-based text editor.",
+        "link": "https://neovim.io/"
+      },
+      {
+        "tags": [
+          "resources"
+        ],
+        "name": "VSCodium",
+        "description": "Free/libre open source software binaries of VSCode.",
+        "link": "https://vscodium.com/"
+      },
+      {
         "tags": [
           "ethereum",
+          "blockchain",
           "framework"
-        ]
-      }
-    ]
-  },
-  {
-    "category": "API Libraries",
-    "description": "Eensure data communication and integration.",
-    "items": [
-      {
+        ],
         "name": "Web3.js",
-        "link": "https://web3js.org/",
         "description": "A JavaScript library for interacting with Ethereum nodes.",
+        "link": "https://web3js.org/"
+      },
+      {
         "tags": [
           "ethereum",
           "blockchain",
           "framework"
-        ]
-      },
-      {
+        ],
         "name": "Ethers.js",
-        "link": "https://ethers.org/",
         "description": "A modern, flexible JavaScript library for interacting with Ethereum.",
+        "link": "https://ethers.org/"
+      },
+      {
         "tags": [
           "ethereum",
           "blockchain",
           "framework"
-        ]
-      },
-      {
+        ],
         "name": "Web3.py",
-        "link": "https://web3py.readthedocs.io/en/stable/",
         "description": "A Python library for interacting with Ethereum nodes.",
-        "tags": [
-          "ethereum",
-          "blockchain",
-          "framework"
-        ]
+        "link": "https://web3py.readthedocs.io/en/stable/"
       },
       {
-        "name": "Wagmi",
-        "link": "https://wagmi.sh/",
-        "description": "Wagmi Core is a VanillaJS library for Ethereum.",
         "tags": [
           "ethereum",
           "framework"
-        ]
-      }
-    ]
-  },
-  {
-    "category": "Ethereum Blockchain Explorers",
-    "description": "Explore Ethereum transactions and smart contracts.",
-    "items": [
+        ],
+        "name": "Wagmi",
+        "description": "Wagmi Core is a VanillaJS library for Ethereum.",
+        "link": "https://wagmi.sh/"
+      },
       {
-        "name": "Etherscan",
-        "link": "https://etherscan.io/",
-        "description": "A popular Ethereum blockchain explorer with a wealth of tools and data.",
         "tags": [
           "ethereum",
           "blockchain",
           "resources"
-        ]
+        ],
+        "name": "Etherscan",
+        "description": "A popular Ethereum blockchain explorer with a wealth of tools and data.",
+        "link": "https://etherscan.io/"
       },
       {
-        "name": "Blockscout",
-        "link": "https://www.blockscout.com/",
-        "description": "Open-source, universally accessible, and fully customizable.",
         "tags": [
           "ethereum",
           "blockchain",
           "resources",
           "decentralised"
-        ]
+        ],
+        "name": "Blockscout",
+        "description": "Open-source, universally accessible, and fully customizable.",
+        "link": "https://www.blockscout.com/"
       },
       {
-        "name": "Otterscan",
-        "link": "https://otterscan.io/",
-        "description": "A blazingly fast, local, Ethereum block explorer built on top of Erigon.",
         "tags": [
           "ethereum",
           "blockchain",
           "resources"
-        ]
+        ],
+        "name": "Otterscan",
+        "description": "A blazingly fast, local, Ethereum block explorer built on top of Erigon.",
+        "link": "https://otterscan.io/"
       },
       {
-        "name": "Blockchair",
-        "link": "https://blockchair.com/",
-        "description": "Blockchain explorer, analytics and web services.",
         "tags": [
           "blockchain",
           "resources",
           "search"
-        ]
+        ],
+        "name": "Blockchair",
+        "description": "Blockchain explorer, analytics and web services.",
+        "link": "https://blockchair.com/"
       },
       {
-        "name": "Beaconcha.in",
-        "link": "https://beaconcha.in/",
-        "description": "Open-source Ethereum explorer.",
         "tags": [
           "ethereum",
           "blockchain",
           "resources"
-        ]
+        ],
+        "name": "Beaconcha.in",
+        "description": "Open-source Ethereum explorer.",
+        "link": "https://beaconcha.in/"
       },
       {
-        "name": "Blobscan",
-        "link": "https://blobscan.com/",
-        "description": "The first EIP4844 Blob Transaction explorer.",
         "tags": [
           "ethereum",
           "blockchain",
           "resources",
           "EIP"
-        ]
+        ],
+        "name": "Blobscan",
+        "description": "The first EIP4844 Blob Transaction explorer.",
+        "link": "https://blobscan.com/"
       }
     ]
   },
   {
-    "category": "Privacy-Related EIPs & Standards",
-    "description": "",
+    "category": "Privacy & Security Standards",
+    "description": "Cryptographic libraries, EIPs, protocols",
     "items": [
       {
-        "name": "EIP-7503",
-        "link": "https://eips.ethereum.org/EIPS/eip-7503",
-        "description": "Enables anonymous ETH transfers using zero-knowledge proofs without third-party mixers.",
         "tags": [
           "EIP",
           "zero-knowledge",
           "anonymity",
           "privacy",
           "encryption"
-        ]
+        ],
+        "name": "EIP-7503",
+        "description": "Enables anonymous ETH transfers using zero-knowledge proofs without third-party mixers.",
+        "link": "https://eips.ethereum.org/EIPS/eip-7503"
       },
       {
-        "name": "EIP-627",
-        "link": "https://eips.ethereum.org/EIPS/eip-627",
-        "description": "Specifies Whisper protocol for encrypted, peer-to-peer messaging.",
         "tags": [
           "EIP",
           "encryption",
           "protocol",
           "p2p",
           "privacy"
-        ]
+        ],
+        "name": "EIP-627",
+        "description": "Specifies Whisper protocol for encrypted, peer-to-peer messaging.",
+        "link": "https://eips.ethereum.org/EIPS/eip-627"
       },
       {
+        "tags": [
+          "EIP",
+          "privacy",
+          "security",
+          "standards"
+        ],
         "name": "EIP-600",
-        "link": "https://eips.ethereum.org/EIPS/eip-600",
         "description": "Defines purpose-based HD wallet paths for better identity separation.",
+        "link": "https://eips.ethereum.org/EIPS/eip-600"
+      },
+      {
         "tags": [
           "EIP",
           "privacy",
           "security",
           "standards"
-        ]
-      },
-      {
+        ],
         "name": "EIP-601",
-        "link": "https://eips.ethereum.org/EIPS/eip-601",
         "description": "Outlines a structured hierarchy for Ethereum HD wallets to improve privacy.",
-        "tags": [
-          "EIP",
-          "privacy",
-          "security",
-          "standards"
-        ]
+        "link": "https://eips.ethereum.org/EIPS/eip-601"
       },
       {
+        "tags": [
+          "EIP",
+          "security",
+          "standards"
+        ],
         "name": "EIP-1344",
-        "link": "https://eips.ethereum.org/EIPS/eip-1344",
         "description": "Adds chain ID to prevent cross-chain transaction replays.",
-        "tags": [
-          "EIP",
-          "security",
-          "standards"
-        ]
+        "link": "https://eips.ethereum.org/EIPS/eip-1344"
       },
       {
+        "tags": [
+          "EIP",
+          "ethereum",
+          "cryptography",
+          "privacy"
+        ],
         "name": "ERC-2334",
-        "link": "https://eips.ethereum.org/EIPS/eip-2334",
         "description": "Introduces HD wallet structure for Ethereum 2.0 using BLS keys.",
+        "link": "https://eips.ethereum.org/EIPS/eip-2334"
+      },
+      {
         "tags": [
           "EIP",
           "ethereum",
-          "cryptography",
+          "security",
           "privacy"
-        ]
-      },
-      {
+        ],
         "name": "ERC-2386",
-        "link": "https://eips.ethereum.org/EIPS/eip-2386",
         "description": "Proposes a format for securely storing Ethereum 2.0 wallet definitions.",
-        "tags": [
-          "EIP",
-          "ethereum",
-          "security",
-          "privacy"
-        ]
-      }
-    ]
-  },
-  {
-    "category": "Security Tools",
-    "description": "Software security with tools designed to protect against privacy threats and vulnerabilities.",
-    "items": [
-      {
-        "name": "Apeworx",
-        "link": "https://apeworx.io/",
-        "description": "Dev tools for smart contract engineers and data scientists.",
-        "tags": [
-          "security",
-          "ethereum",
-          "framework"
-        ]
+        "link": "https://eips.ethereum.org/EIPS/eip-2386"
       },
       {
-        "name": "Slither",
-        "link": "https://pypi.org/project/slither-analyzer/",
-        "description": "A Solidity and Vyper static analysis framework written in Python 3.",
         "tags": [
-          "security",
-          "framework",
-          "ethereum"
-        ]
-      },
-      {
-        "name": "Cyfrin",
-        "link": "https://www.cyfrin.io/",
-        "description": "Rust-based Solidity AST analyzer.",
-        "tags": [
-          "security",
-          "framework",
-          "ethereum"
-        ]
-      },
-      {
-        "name": "TOSINT",
-        "link": "https://github.com/drego85/tosint",
-        "description": "Telegram OSINT tool to extract information from Telegram Bots and Channels.",
-        "tags": [
-          "osint",
-          "security"
-        ]
-      },
-      {
-        "name": "Awesome OSINT",
-        "link": "https://github.com/jivoi/awesome-osint",
-        "description": "A curated list of awesome things related to open-source intelligence.",
-        "tags": [
-          "osint",
-          "resources"
-        ]
-      },
-      {
-        "name": "Awesome Onchain Investigation Handbook",
-        "link": "https://github.com/OffcierCia/On-Chain-Investigations-Tools-List",
-        "description": "A curated list of onchain investigation tools.",
-        "tags": [
-          "osint",
+          "zero-knowledge",
           "resources",
-          "blockchain"
-        ]
-      }
-    ]
-  },
-  {
-    "category": "Cryptography Libraries",
-    "description": "Privacy-preserving development libraries and frameworks.",
-    "items": [
-      {
+          "privacy"
+        ],
         "name": "Awesome Zero-Knowledge Proofs",
-        "link": "https://github.com/matter-labs/awesome-zero-knowledge-proofs?tab=readme-ov-file#learn",
         "description": "A curated list of awesome things related to learning ZKP.",
-        "tags": [
-          "zero-knowledge",
-          "resources",
-          "privacy"
-        ]
+        "link": "https://github.com/matter-labs/awesome-zero-knowledge-proofs?tab=readme-ov-file#learn"
       },
       {
-        "name": "LibStark",
-        "link": "https://github.com/elibensasson/libSTARK",
-        "description": "A library for ZK scalable transparent argument of knowledge.",
         "tags": [
           "zero-knowledge",
           "cryptography"
-        ]
+        ],
+        "name": "LibStark",
+        "description": "A library for ZK scalable transparent argument of knowledge.",
+        "link": "https://github.com/elibensasson/libSTARK"
       },
       {
-        "name": "EthSnarks",
-        "link": "https://ethsnarks.github.io/",
-        "description": "Toolkit for developing Ethereum compatible smart contracts which use zero-knowledge proofs.",
         "tags": [
           "zero-knowledge",
           "ethereum",
           "cryptography"
-        ]
+        ],
+        "name": "EthSnarks",
+        "description": "Toolkit for developing Ethereum compatible smart contracts which use zero-knowledge proofs.",
+        "link": "https://ethsnarks.github.io/"
       },
       {
-        "name": "Awesome Homomorphic Encryption",
-        "link": "https://github.com/jonaschn/awesome-he",
-        "description": "A curated list of amazing Homomorphic Encryption libraries, software and resources.",
         "tags": [
           "homomorphic",
           "cryptography",
           "resources"
-        ]
+        ],
+        "name": "Awesome Homomorphic Encryption",
+        "description": "A curated list of amazing Homomorphic Encryption libraries, software and resources.",
+        "link": "https://github.com/jonaschn/awesome-he"
       },
       {
-        "name": "OpenFHE",
-        "link": "https://www.openfhe.org/downloads/",
-        "description": "Efficient extensible implementations of the leading post-quantum Fully Homomorphic Encryption.",
         "tags": [
           "homomorphic",
           "cryptography"
-        ]
+        ],
+        "name": "OpenFHE",
+        "description": "Efficient extensible implementations of the leading post-quantum Fully Homomorphic Encryption.",
+        "link": "https://www.openfhe.org/downloads/"
       },
       {
-        "name": "Awesome MPC",
-        "link": "https://github.com/rdragos/awesome-mpc?tab=readme-ov-file",
-        "description": "A curated list of multi party computation resources and links.",
         "tags": [
           "mpc",
           "resources",
           "privacy"
-        ]
+        ],
+        "name": "Awesome MPC",
+        "description": "A curated list of multi party computation resources and links.",
+        "link": "https://github.com/rdragos/awesome-mpc?tab=readme-ov-file"
       },
       {
-        "name": "Secure MPC Frameworks",
-        "link": "https://github.com/MPC-SoK/frameworks",
-        "description": "Sample code and build environments for multi-party computation frameworks.",
         "tags": [
           "mpc",
           "framework",
           "privacy"
-        ]
+        ],
+        "name": "Secure MPC Frameworks",
+        "description": "Sample code and build environments for multi-party computation frameworks.",
+        "link": "https://github.com/MPC-SoK/frameworks"
       },
       {
-        "name": "OpenDP",
-        "link": "https://github.com/opendp/opendp",
-        "description": "The core library of differential privacy algorithms powering the OpenDP Project.",
         "tags": [
           "privacy",
           "framework",
           "resources"
-        ]
+        ],
+        "name": "OpenDP",
+        "description": "The core library of differential privacy algorithms powering the OpenDP Project.",
+        "link": "https://github.com/opendp/opendp"
       },
       {
-        "name": "Agorism Hackers Study Guide",
-        "link": "https://darkrenaissance.github.io/darkfi/dev/learn.html",
-        "description": "A system of mentorship with aim to train leaders and raise people up.",
         "tags": [
           "privacy",
           "resources",
           "journalism"
+        ],
+        "name": "Agorism Hackers Study Guide",
+        "description": "A system of mentorship with aim to train leaders and raise people up.",
+        "link": "https://darkrenaissance.github.io/darkfi/dev/learn.html"
+      },
+      {
+        "tags": [
+          "cryptography",
+          "standards",
+          "protocol"
+        ],
+        "name": "OpenPGP",
+        "description": "A standard for encrypting, decrypting, and signing data.",
+        "link": "https://www.openpgp.org/"
+      },
+      {
+        "tags": [
+          "cryptography",
+          "encryption"
+        ],
+        "name": "GnuPG",
+        "description": "The GNU Privacy Guard, a free implementation of the OpenPGP standard.",
+        "link": "https://gnupg.org/"
+      },
+      {
+        "tags": [
+          "cryptography",
+          "encryption",
+          "os"
+        ],
+        "name": "OpenKeychain",
+        "description": "An Android application for OpenPGP encryption.",
+        "link": "https://www.openkeychain.org/"
+      }
+    ]
+  },
+  {
+    "category": "Security & Protection",
+    "description": "Security tools, authentication, password managers, encryption",
+    "items": [
+      {
+        "tags": [
+          "security",
+          "ethereum",
+          "framework"
+        ],
+        "name": "Apeworx",
+        "description": "Dev tools for smart contract engineers and data scientists.",
+        "link": "https://apeworx.io/"
+      },
+      {
+        "tags": [
+          "security",
+          "framework",
+          "ethereum"
+        ],
+        "name": "Slither",
+        "description": "A Solidity and Vyper static analysis framework written in Python 3.",
+        "link": "https://pypi.org/project/slither-analyzer/"
+      },
+      {
+        "tags": [
+          "security",
+          "framework",
+          "ethereum"
+        ],
+        "name": "Cyfrin",
+        "description": "Rust-based Solidity AST analyzer.",
+        "link": "https://www.cyfrin.io/"
+      },
+      {
+        "tags": [
+          "osint",
+          "security"
+        ],
+        "name": "TOSINT",
+        "description": "Telegram OSINT tool to extract information from Telegram Bots and Channels.",
+        "link": "https://github.com/drego85/tosint"
+      },
+      {
+        "tags": [
+          "osint",
+          "resources"
+        ],
+        "name": "Awesome OSINT",
+        "description": "A curated list of awesome things related to open-source intelligence.",
+        "link": "https://github.com/jivoi/awesome-osint"
+      },
+      {
+        "tags": [
+          "osint",
+          "resources",
+          "blockchain"
+        ],
+        "name": "Awesome Onchain Investigation Handbook",
+        "description": "A curated list of onchain investigation tools.",
+        "link": "https://github.com/OffcierCia/On-Chain-Investigations-Tools-List"
+      },
+      {
+        "tags": [
+          "security"
+        ],
+        "name": "Altcha.org",
+        "description": "Free, open-source and self-hosted CAPTCHA alternative using proof-of-work mechanism.",
+        "link": "https://altcha.org/"
+      },
+      {
+        "tags": [
+          "security"
+        ],
+        "name": "mCaptcha",
+        "description": "An open-source CAPTCHA system with seamless UX using SHA256 based proof-of-work.",
+        "link": "https://mcaptcha.org/"
+      },
+      {
+        "tags": [
+          "security",
+          "osint"
+        ],
+        "name": "Snort",
+        "description": "An open source network intrusion detection and prevention system.",
+        "link": "https://www.snort.org/"
+      },
+      {
+        "tags": [
+          "security",
+          "osint"
+        ],
+        "name": "Suricata",
+        "description": "A free and open source, high performance Network IDS, IPS and Network Security Monitoring engine.",
+        "link": "https://suricata.io/"
+      },
+      {
+        "tags": [
+          "security",
+          "osint"
+        ],
+        "name": "OpenVAS",
+        "description": "A full-featured vulnerability scanner.",
+        "link": "https://www.openvas.org/"
+      },
+      {
+        "tags": [
+          "security",
+          "osint"
+        ],
+        "name": "Greenbone Vulnerability Management",
+        "description": "A vulnerability management solution, forked from OpenVAS.",
+        "link": "https://www.greenbone.net/en/community-edition/"
+      },
+      {
+        "tags": [
+          "security",
+          "osint"
+        ],
+        "name": "Wireshark",
+        "description": "A widely used network protocol analyzer.",
+        "link": "https://www.wireshark.org/"
+      },
+      {
+        "tags": [
+          "security",
+          "osint"
+        ],
+        "name": "tcpdump",
+        "description": "A powerful command-line packet analyzer.",
+        "link": "https://www.tcpdump.org/"
+      },
+      {
+        "tags": [
+          "security",
+          "framework"
+        ],
+        "name": "Metasploit Framework",
+        "description": "A penetration testing framework.",
+        "link": "https://www.metasploit.com/"
+      },
+      {
+        "tags": [
+          "security",
+          "osint"
+        ],
+        "name": "Nmap",
+        "description": "A free and open source utility for network discovery and security auditing.",
+        "link": "https://nmap.org/"
+      },
+      {
+        "name": "Aegis Authenticator",
+        "link": "https://getaegis.app/",
+        "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "ente Auth",
+        "link": "https://ente.io/auth",
+        "description": "A free, cross-platform, end-to-end encrypted and open source app for managing your 2-step verification tokens.",
+        "tags": [
+          "encryption",
+          "security"
+        ]
+      },
+      {
+        "name": "Owky",
+        "link": "https://owky.app/",
+        "description": "Free and open source two-factor authenticator for iOS users.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "FreeOTPPlus",
+        "link": "https://github.com/helloworld1/FreeOTPPlus",
+        "description": "Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "Authenticator Pro",
+        "link": "https://authenticator.pro/",
+        "description": "Two-factor authentication (2FA) client for Android + Wear OS.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "Yubico Authenticator",
+        "link": "https://www.yubico.com/products/yubico-authenticator/",
+        "description": "An open source application for securely storing and generating TOTP and HOTP codes on a YubiKey.",
+        "tags": [
+          "security",
+          "cryptography"
+        ]
+      },
+      {
+        "name": "KeePassXC",
+        "link": "https://keepassxc.org/",
+        "description": "A cross-platform open source password manager.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "KeePassDX",
+        "link": "https://www.keepassdx.com/",
+        "description": "Android client for KeePass.",
+        "tags": [
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "MacPass",
+        "link": "https://macpass.github.io/",
+        "description": "macOS client for KeePass.",
+        "tags": [
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "KeePass2Android",
+        "link": "https://keepass2android.codeplex.com/",
+        "description": "Android client for KeePass.",
+        "tags": [
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "KeePassDroid",
+        "link": "https://www.keepassdroid.com/",
+        "description": "Android client for KeePass.",
+        "tags": [
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "KeeWeb",
+        "link": "https://keeweb.info/",
+        "description": "Desktop and online client for KeePass.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "Bitwarden",
+        "link": "https://bitwarden.com/",
+        "description": "Fully-featured, open source password manager with cloud-sync.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "Vaultwarden",
+        "link": "https://github.com/dani-garcia/vaultwarden",
+        "description": "A self-hosted, Rust implementation of the Bitwarden server and compatible with upstream Bitwarden clients.",
+        "tags": [
+          "security",
+          "decentralised"
+        ]
+      },
+      {
+        "name": "LessPass",
+        "link": "https://lesspass.com/",
+        "description": "Stateless password manager. Remember one master password to access your passwords. No sync needed.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "Padloc",
+        "link": "https://padloc.app/",
+        "description": "A modern, open source password manager for individuals and teams.",
+        "tags": [
+          "security"
+        ]
+      },
+      {
+        "name": "Proton Pass",
+        "link": "https://proton.me/pass",
+        "description": "From the creators of Proton Mail, a new addition to their suite of services for password management.",
+        "tags": [
+          "security",
+          "encryption"
+        ]
+      },
+      {
+        "name": "KeePassium",
+        "link": "https://keepassium.com/",
+        "description": "A modern and secure KeePass client for iOS.",
+        "tags": [
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "VeraCrypt",
+        "link": "https://www.veracrypt.fr/",
+        "description": "Free open source disk encryption software for Windows, macOS, and Linux.",
+        "tags": [
+          "encryption",
+          "security"
+        ]
+      },
+      {
+        "name": "Kryptor",
+        "link": "https://kryptor.net/",
+        "description": "A free and open source file encryption and signing tool.",
+        "tags": [
+          "encryption",
+          "security"
+        ]
+      },
+      {
+        "name": "Tomb",
+        "link": "https://www.dyne.org/software/tomb/",
+        "description": "A free and open source command line tool for encrypting and hiding files and folders.",
+        "tags": [
+          "encryption",
+          "security"
+        ]
+      },
+      {
+        "name": "Picocrypt",
+        "link": "https://github.com/HACKER-KRISH/picocrypt",
+        "description": "A small, fast, and secure file encryption tool.",
+        "tags": [
+          "encryption",
+          "security"
         ]
       }
     ]
   },
   {
-    "category": "Data Storage",
-    "description": "Privacy-enhancing storage solutions and frameworks.",
+    "category": "Anonymous Communication",
+    "description": "VPNs, encrypted messaging, P2P networks, whistleblowing",
     "items": [
       {
-        "name": "IPFS",
-        "link": "https://ipfs.tech/",
-        "description": "Hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system.",
-        "tags": [
-          "p2p",
-          "decentralised",
-          "protocol",
-          "privacy"
-        ]
-      },
-      {
-        "name": "Bittorrent",
-        "link": "https://www.bittorrent.com/",
-        "description": "Communication protocol for p2p file sharing.",
-        "tags": [
-          "p2p",
-          "protocol",
-          "privacy"
-        ]
-      },
-      {
-        "name": "Swarm",
-        "link": "https://www.ethswarm.org/",
-        "description": "Decentralised data storage and distribution technology.",
-        "tags": [
-          "decentralised",
-          "protocol",
-          "p2p",
-          "privacy"
-        ]
-      },
-      {
-        "name": "Codex",
-        "link": "https://codex.storage/",
-        "description": "Durable, decentralised data storage protocol.",
-        "tags": [
-          "decentralised",
-          "protocol",
-          "privacy"
-        ]
-      }
-    ]
-  },
-  {
-    "category": "VPN & Network Privacy",
-    "description": "Communication through secure VPNs and network privacy tools.",
-    "items": [
-      {
-        "name": "Mullvad",
-        "link": "https://mullvad.net/en",
-        "description": "Bridge protocol for censorship circumvention.",
         "tags": [
           "vpn",
           "privacy",
           "anonymity",
           "security"
-        ]
+        ],
+        "name": "Mullvad",
+        "description": "Bridge protocol for censorship circumvention.",
+        "link": "https://mullvad.net/en"
       },
       {
-        "name": "Geph",
-        "link": "https://geph.io/en",
-        "description": "Offers zero-knowledge privacy, anti-censorship resilience, and free access to all.",
         "tags": [
           "vpn",
           "privacy",
           "zero-knowledge",
           "anonymity"
-        ]
+        ],
+        "name": "Geph",
+        "description": "Offers zero-knowledge privacy, anti-censorship resilience, and free access to all.",
+        "link": "https://geph.io/en"
       },
       {
-        "name": "NymVPN",
-        "link": "https://nymvpn.com/en",
-        "description": "New Mixnet decentralized VPN that offers the best privacy and security.",
         "tags": [
           "vpn",
           "privacy",
           "anonymity",
           "decentralised"
-        ]
+        ],
+        "name": "NymVPN",
+        "description": "New Mixnet decentralized VPN that offers the best privacy and security.",
+        "link": "https://nymvpn.com/en"
       },
       {
+        "tags": [
+          "vpn",
+          "security",
+          "encryption"
+        ],
         "name": "WireGuard",
-        "link": "https://www.wireguard.com/",
         "description": "Communication protocol and free and open-source software that implements encrypted virtual private networks.",
+        "link": "https://www.wireguard.com/"
+      },
+      {
         "tags": [
           "vpn",
           "security",
           "encryption"
+        ],
+        "name": "OpenVPN",
+        "description": "Virtual private network system that creates secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.",
+        "link": "https://openvpn.net/"
+      },
+      {
+        "tags": [
+          "vpn",
+          "privacy",
+          "encryption"
+        ],
+        "name": "ProtonVPN",
+        "description": "A high-speed Swiss VPN that safeguards your privacy.",
+        "link": "https://protonvpn.com/"
+      },
+      {
+        "tags": [
+          "vpn",
+          "privacy",
+          "encryption"
+        ],
+        "name": "IVPN",
+        "description": "An audited, open-source VPN service with WireGuard, killswitch and tracker blocker.",
+        "link": "https://www.ivpn.net/"
+      },
+      {
+        "tags": [
+          "vpn",
+          "privacy"
+        ],
+        "name": "RiseupVPN",
+        "description": "A free VPN service provided by Riseup.net, an activist-run collective.",
+        "link": "https://riseup.net/en/vpn"
+      },
+      {
+        "tags": [
+          "vpn",
+          "anonymity",
+          "privacy"
+        ],
+        "name": "Torguard",
+        "description": "A VPN service for anonymous Browse.",
+        "link": "https://torguard.net/"
+      },
+      {
+        "name": "Tutanota",
+        "link": "https://tutanota.com/",
+        "description": "An email service with a focus on security and privacy through the use of encryption.",
+        "tags": [
+          "encryption",
+          "privacy"
         ]
       },
       {
-        "name": "OpenVPN",
-        "link": "https://openvpn.net/",
-        "description": "Virtual private network system that creates secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.",
+        "name": "Proton Mail",
+        "link": "https://proton.me/mail",
+        "description": "Secure email service based in Switzerland with end-to-end encryption.",
         "tags": [
-          "vpn",
-          "security",
-          "encryption"
+          "encryption",
+          "privacy"
         ]
-      }
-    ]
-  },
-  {
-    "category": "Browsers & Search",
-    "description": "Web and search privately with tools that prevent tracking and data exposure.",
-    "items": [
+      },
       {
-        "name": "Tor",
-        "link": "https://www.torproject.org/",
-        "description": "Proprietary web browser disguises your IP address and activity by relaying it through a network of servers (nodes) run by volunteers.",
+        "name": "Signal",
+        "link": "https://signal.org/",
+        "description": "A free, open-source messaging app that provides end-to-end encryption.",
         "tags": [
-          "browser",
-          "anonymity",
+          "encryption",
+          "p2p",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Element",
+        "link": "https://element.io/",
+        "description": "All-in-one secure chat app for teams, friends and organisations, based on Matrix.",
+        "tags": [
+          "decentralised",
+          "encryption",
+          "protocol"
+        ]
+      },
+      {
+        "name": "Session",
+        "link": "https://getsession.org/",
+        "description": "A private messenger that is decentralized and doesn't require a phone number or email address to sign up.",
+        "tags": [
+          "decentralised",
+          "p2p",
+          "anonymity"
+        ]
+      },
+      {
+        "name": "Jitsi Meet",
+        "link": "https://meet.jit.si/",
+        "description": "A secure and flexible open-source video conferencing solution.",
+        "tags": [
           "privacy",
+          "security",
           "p2p"
         ]
       },
       {
-        "name": "Duckduckgo",
-        "link": "https://duckduckgo.com/",
-        "description": "Privacy-focused search engine and browser.",
+        "name": "Tox",
+        "link": "https://tox.chat/",
+        "description": "A free and open source peer-to-peer instant messaging and video calling protocol.",
         "tags": [
-          "browser",
-          "search",
+          "p2p",
+          "encryption",
+          "protocol"
+        ]
+      },
+      {
+        "name": "Ricochet Refresh",
+        "link": "https://www.ricochetrefresh.net/",
+        "description": "A modern private instant messaging system that routes all traffic over Tor.",
+        "tags": [
+          "anonymity",
+          "p2p",
           "privacy"
         ]
       },
       {
-        "name": "Brave",
-        "link": "https://brave.com/",
-        "description": "Chromium-based browser that blocks ads, fingerprinting, and ad trackers by default.",
+        "name": "Briar",
+        "link": "https://briarproject.org/",
+        "description": "A messaging app designed for activists, journalists, and anyone else who needs a safe, easy, and robust way to communicate.",
         "tags": [
-          "browser",
-          "adblock",
-          "privacy",
-          "security"
-        ]
-      },
-      {
-        "name": "Mullvad",
-        "link": "https://mullvad.net/en",
-        "description": "Emulates the Tor network by creating a similar fingerprint for all users, improving anonymity.",
-        "tags": [
-          "browser",
-          "anonymity",
-          "privacy"
-        ]
-      }
-    ]
-  },
-  {
-    "category": "Whistleblowing & Reporting",
-    "description": "Anonymous and secure reporting with privacy-centric whistleblowing platforms.",
-    "items": [
-      {
-        "name": "GlobaLeaks",
-        "link": "https://www.globaleaks.org/",
-        "description": "Set up a secure and anonymous whistleblowing initiative.",
-        "tags": [
-          "whistleblowing",
-          "privacy",
-          "anonymity",
-          "security"
-        ]
-      },
-      {
-        "name": "Wikileaks",
-        "link": "https://wikileaks.org/",
-        "description": "Publishes confidential and classified information from various sources.",
-        "tags": [
-          "whistleblowing",
-          "anonymity",
+          "p2p",
+          "encryption",
           "journalism",
           "privacy"
         ]
       },
       {
-        "name": "TailsOS",
-        "link": "https://tails.net/",
-        "description": "Security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity against surveillance.",
+        "tags": [
+          "whistleblowing",
+          "privacy",
+          "anonymity",
+          "security"
+        ],
+        "name": "GlobaLeaks",
+        "description": "Set up a secure and anonymous whistleblowing initiative.",
+        "link": "https://www.globaleaks.org/"
+      },
+      {
+        "tags": [
+          "whistleblowing",
+          "anonymity",
+          "journalism",
+          "privacy"
+        ],
+        "name": "Wikileaks",
+        "description": "Publishes confidential and classified information from various sources.",
+        "link": "https://wikileaks.org/"
+      },
+      {
         "tags": [
           "os",
           "whistleblowing",
           "privacy",
           "anonymity",
           "security"
+        ],
+        "name": "TailsOS",
+        "description": "Security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity against surveillance.",
+        "link": "https://tails.net/"
+      },
+      {
+        "name": "diaspora*",
+        "link": "https://diasporafoundation.org/",
+        "description": "A free, open source and decentralized social network.",
+        "tags": [
+          "decentralised",
+          "social",
+          "p2p"
+        ]
+      },
+      {
+        "name": "Friendica",
+        "link": "https://friendica.com/",
+        "description": "A decentralized social network with no central authority or ownership.",
+        "tags": [
+          "decentralised",
+          "social",
+          "p2p"
+        ]
+      },
+      {
+        "name": "Movim",
+        "link": "https://movim.eu/",
+        "description": "A decentralized social and chat platform that acts as a web frontend for the XMPP protocol.",
+        "tags": [
+          "decentralised",
+          "protocol",
+          "p2p"
+        ]
+      },
+      {
+        "name": "Synapse",
+        "link": "https://matrix.org/docs/projects/server/synapse",
+        "description": "A Matrix homeserver implementation, enabling decentralized communication.",
+        "tags": [
+          "decentralised",
+          "protocol"
+        ]
+      },
+      {
+        "name": "I2P",
+        "link": "https://i2p2.de/",
+        "description": "An anonymous network layer that allows applications to build censorship-resistant, peer-to-peer communication.",
+        "tags": [
+          "anonymity",
+          "p2p",
+          "protocol"
+        ]
+      },
+      {
+        "name": "Orbot",
+        "link": "https://guardianproject.info/apps/orbot/",
+        "description": "A free proxy app that empowers other apps to use the internet more securely.",
+        "tags": [
+          "anonymity",
+          "p2p",
+          "os"
+        ]
+      },
+      {
+        "name": "Snowflake",
+        "link": "https://snowflake.torproject.org/",
+        "description": "A system to defeat internet censorship.",
+        "tags": [
+          "anonymity",
+          "p2p",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Shadowsocks",
+        "link": "https://shadowsocks.org/",
+        "description": "A secure socks5 proxy.",
+        "tags": [
+          "security",
+          "protocol"
+        ]
+      },
+      {
+        "name": "PirateBox",
+        "link": "https://piratebox.cc/",
+        "description": "A DIY anonymous offline file-sharing and communication system.",
+        "tags": [
+          "p2p",
+          "anonymity",
+          "decentralised"
+        ]
+      },
+      {
+        "name": "FreshRSS",
+        "link": "https://freshrss.org/",
+        "description": "A free, self-hostable RSS feed aggregator.",
+        "tags": [
+          "decentralised",
+          "resources"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Private Browsing & Search",
+    "description": "Privacy browsers, search engines, extensions, ad-blockers",
+    "items": [
+      {
+        "tags": [
+          "browser",
+          "anonymity",
+          "privacy",
+          "p2p"
+        ],
+        "name": "Tor",
+        "description": "Proprietary web browser disguises your IP address and activity by relaying it through a network of servers (nodes) run by volunteers.",
+        "link": "https://www.torproject.org/"
+      },
+      {
+        "tags": [
+          "browser",
+          "search",
+          "privacy"
+        ],
+        "name": "Duckduckgo",
+        "description": "Privacy-focused search engine and browser.",
+        "link": "https://duckduckgo.com/"
+      },
+      {
+        "tags": [
+          "browser",
+          "adblock",
+          "privacy",
+          "security"
+        ],
+        "name": "Brave",
+        "description": "Chromium-based browser that blocks ads, fingerprinting, and ad trackers by default.",
+        "link": "https://brave.com/"
+      },
+      {
+        "tags": [
+          "browser",
+          "anonymity",
+          "privacy"
+        ],
+        "name": "Mullvad",
+        "description": "Emulates the Tor network by creating a similar fingerprint for all users, improving anonymity.",
+        "link": "https://mullvad.net/en"
+      },
+      {
+        "tags": [
+          "browser",
+          "privacy",
+          "security"
+        ],
+        "name": "LibreWolf",
+        "description": "A fork of Firefox, focusing on privacy, security, and freedom.",
+        "link": "https://librewolf.net/"
+      },
+      {
+        "tags": [
+          "browser",
+          "privacy"
+        ],
+        "name": "Ungoogled Chromium",
+        "description": "Chromium without its built-in Google services or background processes.",
+        "link": "https://ungoogled-chromium.github.io/"
+      },
+      {
+        "tags": [
+          "browser",
+          "privacy"
+        ],
+        "name": "Firefox Focus",
+        "description": "A streamlined privacy-centric Browse experience on mobile devices.",
+        "link": "https://www.mozilla.org/en-US/firefox/focus/"
+      },
+      {
+        "tags": [
+          "search",
+          "privacy"
+        ],
+        "name": "DuckDuckGo Search",
+        "description": "An independent search engine without tracking.",
+        "link": "https://duckduckgo.com/"
+      },
+      {
+        "tags": [
+          "search",
+          "privacy"
+        ],
+        "name": "Brave Search",
+        "description": "Independent Search Engine without Tracking.",
+        "link": "https://search.brave.com/"
+      },
+      {
+        "tags": [
+          "search",
+          "privacy"
+        ],
+        "name": "SearXNG",
+        "description": "A free internet metasearch engine which aggregates results from more than 70 search services.",
+        "link": "https://searx.be/"
+      },
+      {
+        "tags": [
+          "search",
+          "privacy"
+        ],
+        "name": "Startpage",
+        "description": "The world's most private search engine, providing Google search results with no tracking.",
+        "link": "https://www.startpage.com/"
+      },
+      {
+        "tags": [
+          "search",
+          "privacy"
+        ],
+        "name": "Qwant",
+        "description": "A search engine that respects your privacy.",
+        "link": "https://www.qwant.com/"
+      },
+      {
+        "tags": [
+          "search",
+          "decentralised",
+          "p2p"
+        ],
+        "name": "YaCy",
+        "description": "A free, open source and decentralized search engine.",
+        "link": "http://yacy.net/en/index.html"
+      },
+      {
+        "tags": [
+          "search",
+          "privacy"
+        ],
+        "name": "Swisscows",
+        "description": "A private search engine made in Switzerland.",
+        "link": "https://swisscows.com/"
+      },
+      {
+        "tags": [
+          "browser",
+          "privacy",
+          "adblock",
+          "os"
+        ],
+        "name": "Cromite",
+        "description": "A Chromium-based browser with built-in ad-blocking and privacy enhancements for Android.",
+        "link": "https://github.com/bromite/bromite"
+      },
+      {
+        "tags": [
+          "browser",
+          "privacy",
+          "adblock",
+          "os"
+        ],
+        "name": "Bromite",
+        "description": "A Chromium-based browser with built-in ad-blocking and privacy enhancements for Android.",
+        "link": "https://www.bromite.org/"
+      },
+      {
+        "name": "uBlock Origin",
+        "link": "https://ublockorigin.com/",
+        "description": "A free and open source, cross-platform browser extension for content-filtering.",
+        "tags": [
+          "adblock",
+          "browser"
+        ]
+      },
+      {
+        "name": "Privacy Badger",
+        "link": "https://privacybadger.org/",
+        "description": "Automatically learns to block invisible trackers.",
+        "tags": [
+          "browser",
+          "privacy",
+          "adblock"
+        ]
+      },
+      {
+        "name": "HTTPS Everywhere",
+        "link": "https://www.eff.org/https-everywhere",
+        "description": "An extension that encrypts your communications with many major websites.",
+        "tags": [
+          "browser",
+          "encryption",
+          "security"
+        ]
+      },
+      {
+        "name": "NoScript",
+        "link": "https://noscript.net/",
+        "description": "An extension that blocks JavaScript, Flash, and other executable content by default.",
+        "tags": [
+          "browser",
+          "security"
+        ]
+      },
+      {
+        "name": "LocalCDN",
+        "link": "https://www.localcdn.org/",
+        "description": "An extension that emulates Content Delivery Networks to improve privacy and performance.",
+        "tags": [
+          "browser",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Disconnect",
+        "link": "https://disconnect.me/",
+        "description": "Browser extensions and apps to visualize and block tracking.",
+        "tags": [
+          "browser",
+          "privacy",
+          "adblock"
+        ]
+      },
+      {
+        "name": "Ghostery",
+        "link": "https://www.ghostery.com/",
+        "description": "A browser extension that blocks ads, stops trackers, and speeds up websites.",
+        "tags": [
+          "browser",
+          "privacy",
+          "adblock"
+        ]
+      },
+      {
+        "name": "Privacy Pass",
+        "link": "https://privacypass.github.io/",
+        "description": "A browser extension that helps reduce CAPTCHA solving.",
+        "tags": [
+          "browser",
+          "privacy"
+        ]
+      },
+      {
+        "name": "AdNauseam",
+        "link": "https://adnauseam.io/",
+        "description": "A browser extension that clicks on every ad to confuse tracking.",
+        "tags": [
+          "browser",
+          "privacy",
+          "adblock"
+        ]
+      },
+      {
+        "name": "Privacy Redirect",
+        "link": "https://github.com/SimonBrazell/privacy-redirect",
+        "description": "A browser extension that redirects requests to popular privacy-unfriendly sites to privacy-friendly alternatives.",
+        "tags": [
+          "browser",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Pi-hole",
+        "link": "https://pi-hole.net/",
+        "description": "A DNS sinkhole that protects your devices from unwanted content without installing any client-side software.",
+        "tags": [
+          "adblock",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "AdGuard Home",
+        "link": "https://adguard.com/en/adguard-home/overview.html",
+        "description": "A network-wide ad & tracker blocking DNS server.",
+        "tags": [
+          "adblock",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "NextDNS",
+        "link": "https://nextdns.io/",
+        "description": "A cloud-based DNS service that blocks ads, trackers, and malicious websites.",
+        "tags": [
+          "adblock",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "AdGuard DNS",
+        "link": "https://adguard-dns.io/",
+        "description": "A public DNS server that blocks ads, trackers, and phishing.",
+        "tags": [
+          "adblock",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "Blokada",
+        "link": "https://blokada.org/",
+        "description": "A universal ad blocker for Android and iOS that works across all apps.",
+        "tags": [
+          "adblock",
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "AdAway",
+        "link": "https://adaway.org/",
+        "description": "An open source ad blocker for Android that uses the hosts file.",
+        "tags": [
+          "adblock",
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Cloudflare DNS",
+        "link": "https://1.1.1.1/",
+        "description": "A public DNS resolver that focuses on privacy and speed.",
+        "tags": [
+          "privacy",
+          "security",
+          "protocol"
+        ]
+      },
+      {
+        "name": "Quad9",
+        "link": "https://www.quad9.net/",
+        "description": "A free, recursive, security-focused DNS service.",
+        "tags": [
+          "privacy",
+          "security",
+          "protocol"
+        ]
+      },
+      {
+        "name": "Control D",
+        "link": "https://controld.com/",
+        "description": "A customizable DNS service that blocks ads and trackers.",
+        "tags": [
+          "privacy",
+          "security",
+          "protocol"
+        ]
+      },
+      {
+        "name": "NewPipe",
+        "link": "https://newpipe.net/",
+        "description": "A lightweight YouTube frontend for Android.",
+        "tags": [
+          "privacy",
+          "os"
+        ]
+      },
+      {
+        "name": "Invidious",
+        "link": "https://invidio.us/",
+        "description": "An alternative front-end to YouTube.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Piped",
+        "link": "https://piped.video/",
+        "description": "A privacy-friendly YouTube frontend.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Freetube",
+        "link": "https://freetubeapp.io/",
+        "description": "A YouTube client for desktop that respects your privacy.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Yattee",
+        "link": "https://yattee.app/",
+        "description": "An alternative YouTube frontend for iOS, tvOS, macOS.",
+        "tags": [
+          "privacy",
+          "resources",
+          "os"
+        ]
+      },
+      {
+        "name": "LibreTube",
+        "link": "https://codeberg.org/ libreTube/LibreTube",
+        "description": "An Android application for watching YouTube videos without Google.",
+        "tags": [
+          "privacy",
+          "resources",
+          "os"
+        ]
+      },
+      {
+        "name": "Redlib",
+        "link": "https://redlib.org/",
+        "description": "A privacy-friendly Reddit frontend.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "ProxiTok",
+        "link": "https://proxitok.pablo.gg/",
+        "description": "A privacy-friendly TikTok frontend.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Data & Storage",
+    "description": "Secure cloud storage, email aliasing services",
+    "items": [
+      {
+        "tags": [
+          "p2p",
+          "decentralised",
+          "protocol",
+          "privacy"
+        ],
+        "name": "IPFS",
+        "description": "Hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system.",
+        "link": "https://ipfs.tech/"
+      },
+      {
+        "tags": [
+          "p2p",
+          "protocol",
+          "privacy"
+        ],
+        "name": "Bittorrent",
+        "description": "Communication protocol for p2p file sharing.",
+        "link": "https://www.bittorrent.com/"
+      },
+      {
+        "tags": [
+          "decentralised",
+          "protocol",
+          "p2p",
+          "privacy"
+        ],
+        "name": "Swarm",
+        "description": "Decentralised data storage and distribution technology.",
+        "link": "https://www.ethswarm.org/"
+      },
+      {
+        "tags": [
+          "decentralised",
+          "protocol",
+          "privacy"
+        ],
+        "name": "Codex",
+        "description": "Durable, decentralised data storage protocol.",
+        "link": "https://codex.storage/"
+      },
+      {
+        "tags": [
+          "encryption",
+          "security"
+        ],
+        "name": "Cryptomator",
+        "description": "Encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.",
+        "link": "https://cryptomator.org/"
+      },
+      {
+        "tags": [
+          "p2p",
+          "security",
+          "decentralised"
+        ],
+        "name": "Syncthing",
+        "description": "Continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.",
+        "link": "https://syncthing.net/"
+      },
+      {
+        "tags": [
+          "encryption",
+          "resources"
+        ],
+        "name": "Rclone",
+        "description": "A command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors' web storage interfaces and enables encryption for encrypting files in the cloud.",
+        "link": "https://rclone.org/"
+      },
+      {
+        "tags": [
+          "encryption",
+          "resources"
+        ],
+        "name": "Restic",
+        "description": "A command line program to manage files on various cloud storage providers. Restic uses encryption by default.",
+        "link": "https://restic.net/"
+      },
+      {
+        "name": "SimpleLogin",
+        "link": "https://simplelogin.io/",
+        "description": "An open-source email alias service to protect your inbox from spam and tracking.",
+        "tags": [
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "AnonAddy",
+        "link": "https://anonaddy.com/",
+        "description": "An open-source email alias and forwarding service.",
+        "tags": [
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "Firefox Relay",
+        "link": "https://relay.firefox.com/",
+        "description": "Create aliases that forward to your real inbox, protecting your email address.",
+        "tags": [
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "Maildrop",
+        "link": "https://maildrop.cc/",
+        "description": "Free and open source disposable e-mail addresses service.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "10 Minute Mail",
+        "link": "https://10minutemail.com/",
+        "description": "Free and anonymous temporary email.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "erine.email",
+        "link": "https://erine.email/",
+        "description": "Unlimited disposable email addresses to avoid spam.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "Mailsac",
+        "link": "https://mailsac.com/",
+        "description": "Open source disposable email hosting.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "inboxkitten",
+        "link": "https://inboxkitten.com/",
+        "description": "Open source disposable email.",
+        "tags": [
+          "privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Privacy Applications",
+    "description": "Privacy-focused mobile apps, keyboards, commenting systems",
+    "items": [
+      {
+        "name": "AnySoftKeyboard",
+        "link": "https://anysoftkeyboard.github.io/",
+        "description": "A free and open source Android keyboard.",
+        "tags": [
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "FlorisBoard",
+        "link": "https://florisboard.org/",
+        "description": "A free and open-source keyboard for Android 6.0+ devices, respecting privacy.",
+        "tags": [
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Futo Keyboard",
+        "link": "https://gitlab.com/futo/keyboard",
+        "description": "A modern keyboard that respects your privacy and security, with features such as offline voice input, swipe typing and smart autocorrect.",
+        "tags": [
+          "os",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "Heliboard",
+        "link": "https://github.com/Helibore/Heliboard",
+        "description": "A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard.",
+        "tags": [
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Indic Keyboard",
+        "link": "https://gitlab.com/smc/indic-keyboard",
+        "description": "A versatile keyboard for Android users who wish to use Indic and Indian languages.",
+        "tags": [
+          "os"
+        ]
+      },
+      {
+        "name": "OpenBoard",
+        "link": "https://openboard.ch/",
+        "description": "A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy.",
+        "tags": [
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Simple Keyboard",
+        "link": "https://github.com/rkkr/simple-keyboard",
+        "description": "A basic, privacy-focused keyboard.",
+        "tags": [
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Commento",
+        "link": "https://commento.io/",
+        "description": "A fast, privacy-focused commenting platform.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "Comentario",
+        "link": "https://comentario.app/",
+        "description": "Tiny, privacy-focused, open-source web comment engine.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "Cusdis",
+        "link": "https://cusdis.com/",
+        "description": "Lightweight, privacy-friendly alternative to Disqus.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "Disgus",
+        "link": "https://github.com/nostr-protocol/disgus",
+        "description": "Embeddable comments for your website, backed by Nostr.",
+        "tags": [
+          "decentralised",
+          "protocol"
+        ]
+      },
+      {
+        "name": "Isso",
+        "link": "https://posativ.org/isso/",
+        "description": "A lightweight, self-hosted, commenting server written in Python and JavaScript.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "Remark42",
+        "link": "https://remark42.com/",
+        "description": "Self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users.",
+        "tags": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "Exodus Privacy",
+        "link": "https://exodus-privacy.eu.org/",
+        "description": "Lets you know what trackers are embedded in apps installed on your smartphone.",
+        "tags": [
+          "privacy",
+          "osint",
+          "resources"
+        ]
+      },
+      {
+        "name": "Joplin",
+        "link": "https://joplinapp.org/",
+        "description": "An open source note-taking and to-do application with synchronization capabilities.",
+        "tags": [
+          "privacy",
+          "encryption"
+        ]
+      },
+      {
+        "name": "Standard Notes",
+        "link": "https://standardnotes.com/",
+        "description": "A free, open-source, and end-to-end encrypted notes application.",
+        "tags": [
+          "privacy",
+          "encryption"
+        ]
+      },
+      {
+        "name": "Notesnook",
+        "link": "https://notesnook.com/",
+        "description": "An open-source, end-to-end encrypted notes application.",
+        "tags": [
+          "privacy",
+          "encryption"
+        ]
+      },
+      {
+        "name": "CryptPad",
+        "link": "https://cryptpad.fr/",
+        "description": "A collaborative suite of encrypted applications.",
+        "tags": [
+          "privacy",
+          "encryption"
+        ]
+      },
+      {
+        "name": "Nextcloud",
+        "link": "https://nextcloud.com/",
+        "description": "The open source self-hosted productivity platform that keeps you in control.",
+        "tags": [
+          "decentralised",
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "OnionShare",
+        "link": "https://onionshare.org/",
+        "description": "An open-source tool that lets you securely and anonymously share files, host websites, and chat using Tor.",
+        "tags": [
+          "anonymity",
+          "p2p",
+          "security"
+        ]
+      },
+      {
+        "name": "MAT2",
+        "link": "https://0xacab.org/jvoisin/mat2",
+        "description": "A metadata anonymisation toolkit.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Fawkes",
+        "link": "https://sandlab.cs.uchicago.edu/fawkes/",
+        "description": "A privacy-preserving tool against facial recognition systems.",
+        "tags": [
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "ImageScrubber",
+        "link": "https://everestpipkin.github.io/image-scrubber/",
+        "description": "A friendly browser-based tool for anonymizing photographs taken at protests.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Plausible Analytics",
+        "link": "https://plausible.io/",
+        "description": "A simple, open-source, lightweight, and privacy-friendly web analytics alternative to Google Analytics.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Matomo",
+        "link": "https://matomo.org/",
+        "description": "A powerful web analytics platform that gives you full control over your data.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Ackee",
+        "link": "https://ackee.electerious.com/",
+        "description": "A privacy-friendly, self-hosted analytics tool for developers.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Operating Systems",
+    "description": "Privacy-focused OS, system tools, firewalls",
+    "items": [
+      {
+        "name": "Tails",
+        "link": "https://tails.boum.org/",
+        "description": "A portable operating system that protects against surveillance and censorship.",
+        "tags": [
+          "os",
+          "anonymity",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Whonix",
+        "link": "https://www.whonix.org/",
+        "description": "A free and open source operating system for advanced security and privacy.",
+        "tags": [
+          "os",
+          "anonymity",
+          "privacy"
+        ]
+      },
+      {
+        "name": "GrapheneOS",
+        "link": "https://grapheneos.org/",
+        "description": "A private and secure mobile operating system with Android app compatibility.",
+        "tags": [
+          "os",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "CalyxOS",
+        "link": "https://calyxos.org/",
+        "description": "An Android mobile operating system that prioritizes privacy and security.",
+        "tags": [
+          "os",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "OpenSnitch",
+        "link": "https://github.com/evilsocket/opensnitch",
+        "description": "A GNU/Linux interactive application firewall.",
+        "tags": [
+          "os",
+          "security"
+        ]
+      },
+      {
+        "name": "Firewall App Blocker",
+        "link": "https://winaero.com/firewall-app-blocker/",
+        "description": "A tool to easily block applications from accessing the internet.",
+        "tags": [
+          "os",
+          "security"
+        ]
+      },
+      {
+        "name": "BleachBit",
+        "link": "https://www.bleachbit.org/",
+        "description": "A free and open source disk space cleaner, privacy manager, and system optimizer.",
+        "tags": [
+          "os",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Little Snitch",
+        "link": "https://www.obdev.at/products/littlesnitch/index.html",
+        "description": "A host-based application firewall for macOS.",
+        "tags": [
+          "os",
+          "security"
+        ]
+      },
+      {
+        "name": "GlassWire",
+        "link": "https://www.glasswire.com/",
+        "description": "A network security monitor and firewall.",
+        "tags": [
+          "os",
+          "security"
+        ]
+      },
+      {
+        "name": "ClamAV",
+        "link": "https://www.clamav.net/",
+        "description": "An open source antivirus engine for detecting trojans, viruses, malware and other malicious threats.",
+        "tags": [
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "BitLocker",
+        "link": "https://www.microsoft.com/en-us/windows/comprehensive-security/bitlocker",
+        "description": "A full disk encryption feature included with Microsoft Windows.",
+        "tags": [
+          "encryption",
+          "os"
+        ]
+      },
+      {
+        "name": "Cryptsetup",
+        "link": "https://gitlab.com/cryptsetup/cryptsetup",
+        "description": "A utility for easy setup of encrypted filesystems.",
+        "tags": [
+          "encryption",
+          "os"
+        ]
+      },
+      {
+        "name": "DiskCryptor",
+        "link": "https://diskcryptor.net/",
+        "description": "An open encryption solution for all disk partitions.",
+        "tags": [
+          "encryption",
+          "os"
+        ]
+      },
+      {
+        "name": "GNU Guix",
+        "link": "https://guix.gnu.org/",
+        "description": "A purely functional package manager and a distribution of the GNU operating system.",
+        "tags": [
+          "os",
+          "decentralised"
+        ]
+      },
+      {
+        "name": "Qubes OS",
+        "link": "https://www.qubes-os.org/",
+        "description": "A security-focused desktop operating system that uses virtualization to isolate different activities.",
+        "tags": [
+          "os",
+          "security"
+        ]
+      },
+      {
+        "name": "Kali Linux",
+        "link": "https://www.kali.org/",
+        "description": "A Debian-derived Linux distribution designed for digital forensics and penetration testing.",
+        "tags": [
+          "security",
+          "osint",
+          "os"
+        ]
+      },
+      {
+        "name": "NetGuard",
+        "link": "https://netguard.me/",
+        "description": "A simple way to block access to the internet per application.",
+        "tags": [
+          "os",
+          "security"
+        ]
+      },
+      {
+        "name": "Simple Firewal",
+        "link": "https://github.com/Valentin-Gabriel/Simple-Firewall",
+        "description": "A simple firewall for Linux based on `iptables`.",
+        "tags": [
+          "os",
+          "security"
+        ]
+      },
+      {
+        "name": "Safing Portmaster",
+        "link": "https://safing.io/",
+        "description": "A free and open-source application that puts you back in control over all your network activity.",
+        "tags": [
+          "privacy",
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "Shelter",
+        "link": "https://github.com/PeterCxy/Shelter",
+        "description": "An open-source app that leverages the \"Work Profile\" feature of Android to provide an isolated space for your apps.",
+        "tags": [
+          "os",
+          "security",
+          "privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "General Tools",
+    "description": "Productivity software, media tools, general open-source resources",
+    "items": [
+      {
+        "name": "LibreOffice",
+        "link": "https://www.libreoffice.org/",
+        "description": "A free and open-source office suite.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Thunderbird",
+        "link": "https://www.thunderbird.net/",
+        "description": "A free email application by Mozilla.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Meltwater",
+        "link": "https://www.meltwater.com/",
+        "description": "A media monitoring and social listening platform.",
+        "tags": [
+          "osint",
+          "resources"
+        ]
+      },
+      {
+        "name": "ONLYOFFICE",
+        "link": "https://www.onlyoffice.com/",
+        "description": "An open source office suite with document, spreadsheet, and presentation editors.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Kdenlive",
+        "link": "https://kdenlive.org/",
+        "description": "A free and open-source video editing software.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "GIMP",
+        "link": "https://www.gimp.org/",
+        "description": "The GNU Image Manipulation Program, a free and open-source raster graphics editor.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Audacity",
+        "link": "https://www.audacityteam.org/",
+        "description": "A free, open-source, cross-platform audio software.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Krita",
+        "link": "https://krita.org/en/",
+        "description": "A free and open-source raster graphics editor, digital painting, and animation program.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Inkscape",
+        "link": "https://inkscape.org/",
+        "description": "A free and open-source vector graphics editor.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Blender",
+        "link": "https://www.blender.org/",
+        "description": "A free and open-source 3D creation suite.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "OpenAudible",
+        "link": "https://openaudible.org/",
+        "description": "A free cross-platform audiobook manager and converter.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Privacy Guides",
+        "link": "https://privacyguides.org/",
+        "description": "A non-profit organization that provides services, tools, and knowledge for protecting your privacy online.",
+        "tags": [
+          "resources",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Simple DNSCrypt",
+        "link": "https://simplednscrypt.org/",
+        "description": "A simple way to install and configure dnscrypt-proxy.",
+        "tags": [
+          "security",
+          "protocol"
+        ]
+      },
+      {
+        "name": "RethinkDNS",
+        "link": "https://rethinkdns.com/",
+        "description": "A DNS over HTTPS/TLS/Proxy client for Android and desktop.",
+        "tags": [
+          "security",
+          "protocol"
+        ]
+      },
+      {
+        "name": "dnscrypt-proxy",
+        "link": "https://github.com/DNSCrypt/dnscrypt-proxy",
+        "description": "A flexible DNS proxy, with support for encrypted DNS protocols.",
+        "tags": [
+          "security",
+          "protocol"
+        ]
+      },
+      {
+        "name": "FreeDNS",
+        "link": "https://freedns.afraid.org/",
+        "description": "A free DNS hosting service.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "dnsprivacy.org",
+        "link": "https://dnsprivacy.org/",
+        "description": "A resource for information on DNS privacy protocols and tools.",
+        "tags": [
+          "resources",
+          "protocol"
+        ]
+      },
+      {
+        "name": "ExifTool",
+        "link": "https://exiftool.org/",
+        "description": "A flexible command-line application for reading, writing and editing meta information in a wide variety of files.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "FreedomBox",
+        "link": "https://freedombox.org/",
+        "description": "A personal server that runs free software for self-hosting.",
+        "tags": [
+          "decentralised",
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "OpenWrt",
+        "link": "https://openwrt.org/",
+        "description": "A Linux operating system for embedded devices, used in routers.",
+        "tags": [
+          "os",
+          "resources"
+        ]
+      },
+      {
+        "name": "pfSense",
+        "link": "https://www.pfsense.org/",
+        "description": "A free, open source customized distribution of FreeBSD tailored for use as a firewall and router.",
+        "tags": [
+          "os",
+          "security",
+          "resources"
+        ]
+      },
+      {
+        "name": "OPNsense",
+        "link": "https://opnsense.org/",
+        "description": "An open source, easy-to-use FreeBSD based firewall and routing platform.",
+        "tags": [
+          "os",
+          "security",
+          "resources"
+        ]
+      },
+      {
+        "name": "LocalStack",
+        "link": "https://localstack.cloud/",
+        "description": "A fully functional local AWS cloud stack for development and testing.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Moodle",
+        "link": "https://moodle.org/",
+        "description": "A free and open-source learning management system.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Nextcloud Office",
+        "link": "https://nextcloud.com/workflow/collabora-online-development-edition/",
+        "description": "Real-time collaborative editing for Nextcloud.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "TiddlyWiki",
+        "link": "https://tiddlywiki.com/",
+        "description": "A unique non-linear notebook for capturing, organizing, and sharing complex information.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Wallabag",
+        "link": "https://wallabag.org/",
+        "description": "A self-hosted readable-later app.",
+        "tags": [
+          "privacy",
+          "resources"
+        ]
+      },
+      {
+        "name": "Readwise",
+        "link": "https://readwise.io/",
+        "description": "A tool to help you get the most out of what you read.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Miniflux",
+        "link": "https://miniflux.app/",
+        "description": "A minimalist and opinionated feed reader.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "NewsFlash",
+        "link": "https://newsflash.purism.com/",
+        "description": "A modern feed reader for the GNOME desktop.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Newsboat",
+        "link": "https://newsboat.org/",
+        "description": "An open source RSS/Atom feed reader for the terminal.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Akregator",
+        "link": "https://apps.kde.org/akregator/",
+        "description": "A feed reader for KDE.",
+        "tags": [
+          "resources"
+        ]
+      },
+      {
+        "name": "Feeder",
+        "link": "https://f-droid.org/en/packages/org.fossify.feeder/",
+        "description": "An Android RSS feed reader.",
+        "tags": [
+          "resources",
+          "os"
+        ]
+      },
+      {
+        "name": "Immich",
+        "link": "https://immich.app/",
+        "description": "A self-hosted photo and video backup solution.",
+        "tags": [
+          "privacy",
+          "decentralised"
+        ]
+      },
+      {
+        "name": "PhotoPrism",
+        "link": "https://photoprism.app/",
+        "description": "A privacy-aware, self-hosted app for Browse, organizing and sharing your personal photo collection.",
+        "tags": [
+          "privacy",
+          "decentralised"
+        ]
+      },
+      {
+        "name": "Ente Photos",
+        "link": "https://ente.io/photos",
+        "description": "End-to-end encrypted, free and open-source photo and video backup.",
+        "tags": [
+          "privacy",
+          "encryption"
+        ]
+      },
+      {
+        "name": "Syncthing-Fork",
+        "link": "https://github.com/Catfriend1/syncthing-android",
+        "description": "An enhanced Syncthing client for Android.",
+        "tags": [
+          "p2p",
+          "security",
+          "os"
+        ]
+      },
+      {
+        "name": "Simple Contacts",
+        "link": "https://github.com/SimpleMobileTools/Simple-Contacts",
+        "description": "A lightweight contacts app for Android.",
+        "tags": [
+          "privacy",
+          "os"
+        ]
+      },
+      {
+        "name": "Simple Calendar",
+        "link": "https://github.com/SimpleMobileTools/Simple-Calendar",
+        "description": "A lightweight calendar app for Android.",
+        "tags": [
+          "privacy",
+          "os"
+        ]
+      },
+      {
+        "name": "Simple Gallery",
+        "link": "https://github.com/SimpleMobileTools/Simple-Gallery",
+        "description": "A simple gallery app for Android.",
+        "tags": [
+          "privacy",
+          "os"
+        ]
+      },
+      {
+        "name": "AnkiDroid",
+        "link": "https://apps.ankiweb.net/",
+        "description": "A flashcard app for Android.",
+        "tags": [
+          "resources",
+          "os"
+        ]
+      },
+      {
+        "name": "K-9 Mail",
+        "link": "https://k9mail.app/",
+        "description": "An open-source email client for Android.",
+        "tags": [
+          "privacy",
+          "os"
+        ]
+      },
+      {
+        "name": "FairEmail",
+        "link": "https://f-droid.org/en/packages/eu.faircode.email/",
+        "description": "A fully featured, open source, privacy-friendly email app for Android.",
+        "tags": [
+          "privacy",
+          "os"
+        ]
+      },
+      {
+        "name": "Proton Calendar",
+        "link": "https://proton.me/calendar",
+        "description": "An encrypted calendar service from Proton.",
+        "tags": [
+          "encryption",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Proton Drive",
+        "link": "https://proton.me/drive",
+        "description": "An encrypted cloud storage solution from Proton.",
+        "tags": [
+          "encryption",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Tresorit",
+        "link": "https://tresorit.com/",
+        "description": "An end-to-end encrypted cloud storage and file-sharing service.",
+        "tags": [
+          "encryption",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Send",
+        "link": "https://github.com/timvisee/send",
+        "description": "A command-line tool for securely sharing files.",
+        "tags": [
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "KDE Connect",
+        "link": "https://kdeconnect.kde.org/",
+        "description": "A tool for connecting your Android phone with your KDE desktop.",
+        "tags": [
+          "os",
+          "resources"
+        ]
+      },
+      {
+        "name": "Pushbullet",
+        "link": "https://www.pushbullet.com/",
+        "description": "A service to send files, links, and more between your devices.",
+        "tags": [
+          "resources"
         ]
       }
     ]
