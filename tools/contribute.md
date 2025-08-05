@@ -20,8 +20,7 @@ When adding a new tool, please use the following format:
 
 ## Approved categories
 Only use categories from the following list.
-
-`Integrated Development Environments (IDE)`, `API Libraries`, `Ethereum Blockchain Explorers`, `Privacy-Related EIPs & Standards`, `Security Tools`, `Cryptography Libraries`, `Data Storage`, `VPN & Network Privacy`, `Browsers & Search`, `Whistleblowing & Reporting`
+`Development Tools`, `Privacy & Security Standards`, `Security & Protection`, `Anonymous Communication`, `Private Browsing & Search`, `Data & Storage`, `Privacy Applications`, `Operating Systems`, `General Tools`
 
 1. Find you relevant category, and then -
 
