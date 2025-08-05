@@ -7,31 +7,49 @@
         "name": "Remix",
         "link": "https://remix.ethereum.org/",
         "description": "A web-based IDE for developing smart contracts.",
-        "tags": ["ethereum", "framework", "browser"]
+        "tags": [
+          "ethereum",
+          "framework",
+          "browser"
+        ]
       },
       {
         "name": "ChainIDE",
         "link": "https://chainide.com/",
         "description": "A cloud-based multi-chain IDE.",
-        "tags": ["ethereum", "framework", "decentralised", "browser"]
+        "tags": [
+          "ethereum",
+          "framework",
+          "decentralised",
+          "browser"
+        ]
       },
       {
         "name": "Hardhat",
         "link": "https://hardhat.org/",
         "description": "A development environment focused on flexibility and performance.",
-        "tags": ["ethereum", "framework"]
+        "tags": [
+          "ethereum",
+          "framework"
+        ]
       },
       {
         "name": "Scaffold-ETH 2",
         "link": "https://scaffoldeth.io/",
         "description": "Open source forkable Ethereum dev stack.",
-        "tags": ["ethereum", "framework"]
+        "tags": [
+          "ethereum",
+          "framework"
+        ]
       },
       {
         "name": "Foundry",
         "link": "https://getfoundry.sh/",
         "description": "Manages your dependencies, compiles your project, runs tests, and deploys.",
-        "tags": ["ethereum", "framework"]
+        "tags": [
+          "ethereum",
+          "framework"
+        ]
       }
     ]
   },
@@ -43,25 +61,40 @@
         "name": "Web3.js",
         "link": "https://web3js.org/",
         "description": "A JavaScript library for interacting with Ethereum nodes.",
-        "tags": ["ethereum", "blockchain", "framework"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "framework"
+        ]
       },
       {
         "name": "Ethers.js",
         "link": "https://ethers.org/",
         "description": "A modern, flexible JavaScript library for interacting with Ethereum.",
-        "tags": ["ethereum", "blockchain", "framework"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "framework"
+        ]
       },
       {
         "name": "Web3.py",
         "link": "https://web3py.readthedocs.io/en/stable/",
         "description": "A Python library for interacting with Ethereum nodes.",
-        "tags": ["ethereum", "blockchain", "framework"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "framework"
+        ]
       },
       {
         "name": "Wagmi",
         "link": "https://wagmi.sh/",
         "description": "Wagmi Core is a VanillaJS library for Ethereum.",
-        "tags": ["ethereum", "framework"]
+        "tags": [
+          "ethereum",
+          "framework"
+        ]
       }
     ]
   },
@@ -73,37 +106,63 @@
         "name": "Etherscan",
         "link": "https://etherscan.io/",
         "description": "A popular Ethereum blockchain explorer with a wealth of tools and data.",
-        "tags": ["ethereum", "blockchain", "resources"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "resources"
+        ]
       },
       {
         "name": "Blockscout",
         "link": "https://www.blockscout.com/",
         "description": "Open-source, universally accessible, and fully customizable.",
-        "tags": ["ethereum", "blockchain", "resources", "decentralised"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "resources",
+          "decentralised"
+        ]
       },
       {
         "name": "Otterscan",
         "link": "https://otterscan.io/",
         "description": "A blazingly fast, local, Ethereum block explorer built on top of Erigon.",
-        "tags": ["ethereum", "blockchain", "resources"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "resources"
+        ]
       },
       {
         "name": "Blockchair",
         "link": "https://blockchair.com/",
         "description": "Blockchain explorer, analytics and web services.",
-        "tags": ["blockchain", "resources", "search"]
+        "tags": [
+          "blockchain",
+          "resources",
+          "search"
+        ]
       },
       {
         "name": "Beaconcha.in",
         "link": "https://beaconcha.in/",
         "description": "Open-source Ethereum explorer.",
-        "tags": ["ethereum", "blockchain", "resources"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "resources"
+        ]
       },
       {
         "name": "Blobscan",
         "link": "https://blobscan.com/",
         "description": "The first EIP4844 Blob Transaction explorer.",
-        "tags": ["ethereum", "blockchain", "resources", "EIP"]
+        "tags": [
+          "ethereum",
+          "blockchain",
+          "resources",
+          "EIP"
+        ]
       }
     ]
   },
@@ -115,43 +174,79 @@
         "name": "EIP-7503",
         "link": "https://eips.ethereum.org/EIPS/eip-7503",
         "description": "Enables anonymous ETH transfers using zero-knowledge proofs without third-party mixers.",
-        "tags": ["EIP", "zero-knowledge", "anonymity", "privacy", "encryption"]
+        "tags": [
+          "EIP",
+          "zero-knowledge",
+          "anonymity",
+          "privacy",
+          "encryption"
+        ]
       },
       {
         "name": "EIP-627",
         "link": "https://eips.ethereum.org/EIPS/eip-627",
         "description": "Specifies Whisper protocol for encrypted, peer-to-peer messaging.",
-        "tags": ["EIP", "encryption", "protocol", "p2p", "privacy"]
+        "tags": [
+          "EIP",
+          "encryption",
+          "protocol",
+          "p2p",
+          "privacy"
+        ]
       },
       {
         "name": "EIP-600",
         "link": "https://eips.ethereum.org/EIPS/eip-600",
         "description": "Defines purpose-based HD wallet paths for better identity separation.",
-        "tags": ["EIP", "privacy", "security", "standards"]
+        "tags": [
+          "EIP",
+          "privacy",
+          "security",
+          "standards"
+        ]
       },
       {
         "name": "EIP-601",
         "link": "https://eips.ethereum.org/EIPS/eip-601",
         "description": "Outlines a structured hierarchy for Ethereum HD wallets to improve privacy.",
-        "tags": ["EIP", "privacy", "security", "standards"]
+        "tags": [
+          "EIP",
+          "privacy",
+          "security",
+          "standards"
+        ]
       },
       {
         "name": "EIP-1344",
         "link": "https://eips.ethereum.org/EIPS/eip-1344",
         "description": "Adds chain ID to prevent cross-chain transaction replays.",
-        "tags": ["EIP", "security", "standards"]
+        "tags": [
+          "EIP",
+          "security",
+          "standards"
+        ]
       },
       {
         "name": "ERC-2334",
         "link": "https://eips.ethereum.org/EIPS/eip-2334",
         "description": "Introduces HD wallet structure for Ethereum 2.0 using BLS keys.",
-        "tags": ["EIP", "ethereum", "cryptography", "privacy"]
+        "tags": [
+          "EIP",
+          "ethereum",
+          "cryptography",
+          "privacy"
+        ]
       },
       {
         "name": "ERC-2386",
         "link": "https://eips.ethereum.org/EIPS/eip-2386",
         "description": "Proposes a format for securely storing Ethereum 2.0 wallet definitions.",
-        "tags": ["EIP", "ethereum", "security", "privacy"]
+        "tags": [
+          "EIP",
+          "ethereum",
+          "security",
+          "privacy"
+        ]
       }
     ]
   },
@@ -163,37 +258,637 @@
         "name": "Apeworx",
         "link": "https://apeworx.io/",
         "description": "Dev tools for smart contract engineers and data scientists.",
-        "tags": ["security", "ethereum", "framework"]
+        "tags": [
+          "security",
+          "ethereum",
+          "framework"
+        ]
       },
       {
         "name": "Slither",
         "link": "https://pypi.org/project/slither-analyzer/",
         "description": "A Solidity and Vyper static analysis framework written in Python 3.",
-        "tags": ["security", "framework", "ethereum"]
+        "tags": [
+          "security",
+          "framework",
+          "ethereum"
+        ]
       },
       {
         "name": "Cyfrin",
         "link": "https://www.cyfrin.io/",
         "description": "Rust-based Solidity AST analyzer.",
-        "tags": ["security", "framework", "ethereum"]
+        "tags": [
+          "security",
+          "framework",
+          "ethereum"
+        ]
       },
       {
         "name": "TOSINT",
         "link": "https://github.com/drego85/tosint",
         "description": "Telegram OSINT tool to extract information from Telegram Bots and Channels.",
-        "tags": ["osint", "security"]
+        "tags": [
+          "osint",
+          "security"
+        ]
       },
       {
         "name": "Awesome OSINT",
         "link": "https://github.com/jivoi/awesome-osint",
         "description": "A curated list of awesome things related to open-source intelligence.",
-        "tags": ["osint", "resources"]
+        "tags": [
+          "osint",
+          "resources"
+        ]
       },
       {
         "name": "Awesome Onchain Investigation Handbook",
         "link": "https://github.com/OffcierCia/On-Chain-Investigations-Tools-List",
         "description": "A curated list of onchain investigation tools.",
-        "tags": ["osint", "resources", "blockchain"]
+        "tags": [
+          "osint",
+          "resources",
+          "blockchain"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Cryptography Libraries",
+    "description": "Privacy-preserving development libraries and frameworks.",
+    "items": [
+      {
+        "name": "Awesome Zero-Knowledge Proofs",
+        "link": "https://github.com/matter-labs/awesome-zero-knowledge-proofs?tab=readme-ov-file#learn",
+        "description": "A curated list of awesome things related to learning ZKP.",
+        "tags": [
+          "zero-knowledge",
+          "resources",
+          "privacy"
+        ]
+      },
+      {
+        "name": "LibStark",
+        "link": "https://github.com/elibensasson/libSTARK",
+        "description": "A library for ZK scalable transparent argument of knowledge.",
+        "tags": [
+          "zero-knowledge",
+          "cryptography"
+        ]
+      },
+      {
+        "name": "EthSnarks",
+        "link": "https://ethsnarks.github.io/",
+        "description": "Toolkit for developing Ethereum compatible smart contracts which use zero-knowledge proofs.",
+        "tags": [
+          "zero-knowledge",
+          "ethereum",
+          "cryptography"
+        ]
+      },
+      {
+        "name": "Awesome Homomorphic Encryption",
+        "link": "https://github.com/jonaschn/awesome-he",
+        "description": "A curated list of amazing Homomorphic Encryption libraries, software and resources.",
+        "tags": [
+          "homomorphic",
+          "cryptography",
+          "resources"
+        ]
+      },
+      {
+        "name": "OpenFHE",
+        "link": "https://www.openfhe.org/downloads/",
+        "description": "Efficient extensible implementations of the leading post-quantum Fully Homomorphic Encryption.",
+        "tags": [
+          "homomorphic",
+          "cryptography"
+        ]
+      },
+      {
+        "name": "Awesome MPC",
+        "link": "https://github.com/rdragos/awesome-mpc?tab=readme-ov-file",
+        "description": "A curated list of multi party computation resources and links.",
+        "tags": [
+          "mpc",
+          "resources",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Secure MPC Frameworks",
+        "link": "https://github.com/MPC-SoK/frameworks",
+        "description": "Sample code and build environments for multi-party computation frameworks.",
+        "tags": [
+          "mpc",
+          "framework",
+          "privacy"
+        ]
+      },
+      {
+        "name": "OpenDP",
+        "link": "https://github.com/opendp/opendp",
+        "description": "The core library of differential privacy algorithms powering the OpenDP Project.",
+        "tags": [
+          "privacy",
+          "framework",
+          "resources"
+        ]
+      },
+      {
+        "name": "Agorism Hackers Study Guide",
+        "link": "https://darkrenaissance.github.io/darkfi/dev/learn.html",
+        "description": "A system of mentorship with aim to train leaders and raise people up.",
+        "tags": [
+          "privacy",
+          "resources",
+          "journalism"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Data Storage",
+    "description": "Privacy-enhancing storage solutions and frameworks.",
+    "items": [
+      {
+        "name": "IPFS",
+        "link": "https://ipfs.tech/",
+        "description": "Hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system.",
+        "tags": [
+          "p2p",
+          "decentralised",
+          "protocol",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Bittorrent",
+        "link": "https://www.bittorrent.com/",
+        "description": "Communication protocol for p2p file sharing.",
+        "tags": [
+          "p2p",
+          "protocol",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Swarm",
+        "link": "https://www.ethswarm.org/",
+        "description": "Decentralised data storage and distribution technology.",
+        "tags": [
+          "decentralised",
+          "protocol",
+          "p2p",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Codex",
+        "link": "https://codex.storage/",
+        "description": "Durable, decentralised data storage protocol.",
+        "tags": [
+          "decentralised",
+          "protocol",
+          "privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "VPN & Network Privacy",
+    "description": "Communication through secure VPNs and network privacy tools.",
+    "items": [
+      {
+        "name": "Mullvad",
+        "link": "https://mullvad.net/en",
+        "description": "Bridge protocol for censorship circumvention.",
+        "tags": [
+          "vpn",
+          "privacy",
+          "anonymity",
+          "security"
+        ]
+      },
+      {
+        "name": "Geph",
+        "link": "https://geph.io/en",
+        "description": "Offers zero-knowledge privacy, anti-censorship resilience, and free access to all.",
+        "tags": [
+          "vpn",
+          "privacy",
+          "zero-knowledge",
+          "anonymity"
+        ]
+      },
+      {
+        "name": "NymVPN",
+        "link": "https://nymvpn.com/en",
+        "description": "New Mixnet decentralized VPN that offers the best privacy and security.",
+        "tags": [
+          "vpn",
+          "privacy",
+          "anonymity",
+          "decentralised"
+        ]
+      },
+      {
+        "name": "WireGuard",
+        "link": "https://www.wireguard.com/",
+        "description": "Communication protocol and free and open-source software that implements encrypted virtual private networks.",
+        "tags": [
+          "vpn",
+          "security",
+          "encryption"
+        ]
+      },
+      {
+        "name": "OpenVPN",
+        "link": "https://openvpn.net/",
+        "description": "Virtual private network system that creates secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.",
+        "tags": [
+          "vpn",
+          "security",
+          "encryption"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Browsers & Search",
+    "description": "Web and search privately with tools that prevent tracking and data exposure.",
+    "items": [
+      {
+        "name": "Tor",
+        "link": "https://www.torproject.org/",
+        "description": "Proprietary web browser disguises your IP address and activity by relaying it through a network of servers (nodes) run by volunteers.",
+        "tags": [
+          "browser",
+          "anonymity",
+          "privacy",
+          "p2p"
+        ]
+      },
+      {
+        "name": "Duckduckgo",
+        "link": "https://duckduckgo.com/",
+        "description": "Privacy-focused search engine and browser.",
+        "tags": [
+          "browser",
+          "search",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Brave",
+        "link": "https://brave.com/",
+        "description": "Chromium-based browser that blocks ads, fingerprinting, and ad trackers by default.",
+        "tags": [
+          "browser",
+          "adblock",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "Mullvad",
+        "link": "https://mullvad.net/en",
+        "description": "Emulates the Tor network by creating a similar fingerprint for all users, improving anonymity.",
+        "tags": [
+          "browser",
+          "anonymity",
+          "privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Whistleblowing & Reporting",
+    "description": "Anonymous and secure reporting with privacy-centric whistleblowing platforms.",
+    "items": [
+      {
+        "name": "GlobaLeaks",
+        "link": "https://www.globaleaks.org/",
+        "description": "Set up a secure and anonymous whistleblowing initiative.",
+        "tags": [
+          "whistleblowing",
+          "privacy",
+          "anonymity",
+          "security"
+        ]
+      },
+      {
+        "name": "Wikileaks",
+        "link": "https://wikileaks.org/",
+        "description": "Publishes confidential and classified information from various sources.",
+        "tags": [
+          "whistleblowing",
+          "anonymity",
+          "journalism",
+          "privacy"
+        ]
+      },
+      {
+        "name": "TailsOS",
+        "link": "https://tails.net/",
+        "description": "Security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity against surveillance.",
+        "tags": [
+          "os",
+          "whistleblowing",
+          "privacy",
+          "anonymity",
+          "security"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Cryptography Libraries",
+    "description": "Privacy-preserving development libraries and frameworks.",
+    "items": [
+      {
+        "name": "Awesome Zero-Knowledge Proofs",
+        "link": "https://github.com/matter-labs/awesome-zero-knowledge-proofs?tab=readme-ov-file#learn",
+        "description": "A curated list of awesome things related to learning ZKP.",
+        "tags": [
+          "zero-knowledge",
+          "resources",
+          "privacy"
+        ]
+      },
+      {
+        "name": "LibStark",
+        "link": "https://github.com/elibensasson/libSTARK",
+        "description": "A library for ZK scalable transparent argument of knowledge.",
+        "tags": [
+          "zero-knowledge",
+          "cryptography"
+        ]
+      },
+      {
+        "name": "EthSnarks",
+        "link": "https://ethsnarks.github.io/",
+        "description": "Toolkit for developing Ethereum compatible smart contracts which use zero-knowledge proofs.",
+        "tags": [
+          "zero-knowledge",
+          "ethereum",
+          "cryptography"
+        ]
+      },
+      {
+        "name": "Awesome Homomorphic Encryption",
+        "link": "https://github.com/jonaschn/awesome-he",
+        "description": "A curated list of amazing Homomorphic Encryption libraries, software and resources.",
+        "tags": [
+          "homomorphic",
+          "cryptography",
+          "resources"
+        ]
+      },
+      {
+        "name": "OpenFHE",
+        "link": "https://www.openfhe.org/downloads/",
+        "description": "Efficient extensible implementations of the leading post-quantum Fully Homomorphic Encryption.",
+        "tags": [
+          "homomorphic",
+          "cryptography"
+        ]
+      },
+      {
+        "name": "Awesome MPC",
+        "link": "https://github.com/rdragos/awesome-mpc?tab=readme-ov-file",
+        "description": "A curated list of multi party computation resources and links.",
+        "tags": [
+          "mpc",
+          "resources",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Secure MPC Frameworks",
+        "link": "https://github.com/MPC-SoK/frameworks",
+        "description": "Sample code and build environments for multi-party computation frameworks.",
+        "tags": [
+          "mpc",
+          "framework",
+          "privacy"
+        ]
+      },
+      {
+        "name": "OpenDP",
+        "link": "https://github.com/opendp/opendp",
+        "description": "The core library of differential privacy algorithms powering the OpenDP Project.",
+        "tags": [
+          "privacy",
+          "framework",
+          "resources"
+        ]
+      },
+      {
+        "name": "Agorism Hackers Study Guide",
+        "link": "https://darkrenaissance.github.io/darkfi/dev/learn.html",
+        "description": "A system of mentorship with aim to train leaders and raise people up.",
+        "tags": [
+          "privacy",
+          "resources",
+          "journalism"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Data Storage",
+    "description": "Privacy-enhancing storage solutions and frameworks.",
+    "items": [
+      {
+        "name": "IPFS",
+        "link": "https://ipfs.tech/",
+        "description": "Hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system.",
+        "tags": [
+          "p2p",
+          "decentralised",
+          "protocol",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Bittorrent",
+        "link": "https://www.bittorrent.com/",
+        "description": "Communication protocol for p2p file sharing.",
+        "tags": [
+          "p2p",
+          "protocol",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Swarm",
+        "link": "https://www.ethswarm.org/",
+        "description": "Decentralised data storage and distribution technology.",
+        "tags": [
+          "decentralised",
+          "protocol",
+          "p2p",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Codex",
+        "link": "https://codex.storage/",
+        "description": "Durable, decentralised data storage protocol.",
+        "tags": [
+          "decentralised",
+          "protocol",
+          "privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "VPN & Network Privacy",
+    "description": "Communication through secure VPNs and network privacy tools.",
+    "items": [
+      {
+        "name": "Mullvad",
+        "link": "https://mullvad.net/en",
+        "description": "Bridge protocol for censorship circumvention.",
+        "tags": [
+          "vpn",
+          "privacy",
+          "anonymity",
+          "security"
+        ]
+      },
+      {
+        "name": "Geph",
+        "link": "https://geph.io/en",
+        "description": "Offers zero-knowledge privacy, anti-censorship resilience, and free access to all.",
+        "tags": [
+          "vpn",
+          "privacy",
+          "zero-knowledge",
+          "anonymity"
+        ]
+      },
+      {
+        "name": "NymVPN",
+        "link": "https://nymvpn.com/en",
+        "description": "New Mixnet decentralized VPN that offers the best privacy and security.",
+        "tags": [
+          "vpn",
+          "privacy",
+          "anonymity",
+          "decentralised"
+        ]
+      },
+      {
+        "name": "WireGuard",
+        "link": "https://www.wireguard.com/",
+        "description": "Communication protocol and free and open-source software that implements encrypted virtual private networks.",
+        "tags": [
+          "vpn",
+          "security",
+          "encryption"
+        ]
+      },
+      {
+        "name": "OpenVPN",
+        "link": "https://openvpn.net/",
+        "description": "Virtual private network system that creates secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.",
+        "tags": [
+          "vpn",
+          "security",
+          "encryption"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Browsers & Search",
+    "description": "Web and search privately with tools that prevent tracking and data exposure.",
+    "items": [
+      {
+        "name": "Tor",
+        "link": "https://www.torproject.org/",
+        "description": "Proprietary web browser disguises your IP address and activity by relaying it through a network of servers (nodes) run by volunteers.",
+        "tags": [
+          "browser",
+          "anonymity",
+          "privacy",
+          "p2p"
+        ]
+      },
+      {
+        "name": "Duckduckgo",
+        "link": "https://duckduckgo.com/",
+        "description": "Privacy-focused search engine and browser.",
+        "tags": [
+          "browser",
+          "search",
+          "privacy"
+        ]
+      },
+      {
+        "name": "Brave",
+        "link": "https://brave.com/",
+        "description": "Chromium-based browser that blocks ads, fingerprinting, and ad trackers by default.",
+        "tags": [
+          "browser",
+          "adblock",
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "name": "Mullvad",
+        "link": "https://mullvad.net/en",
+        "description": "Emulates the Tor network by creating a similar fingerprint for all users, improving anonymity.",
+        "tags": [
+          "browser",
+          "anonymity",
+          "privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Whistleblowing & Reporting",
+    "description": "Anonymous and secure reporting with privacy-centric whistleblowing platforms.",
+    "items": [
+      {
+        "name": "GlobaLeaks",
+        "link": "https://www.globaleaks.org/",
+        "description": "Set up a secure and anonymous whistleblowing initiative.",
+        "tags": [
+          "whistleblowing",
+          "privacy",
+          "anonymity",
+          "security"
+        ]
+      },
+      {
+        "name": "Wikileaks",
+        "link": "https://wikileaks.org/",
+        "description": "Publishes confidential and classified information from various sources.",
+        "tags": [
+          "whistleblowing",
+          "anonymity",
+          "journalism",
+          "privacy"
+        ]
+      },
+      {
+        "name": "TailsOS",
+        "link": "https://tails.net/",
+        "description": "Security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity against surveillance.",
+        "tags": [
+          "os",
+          "whistleblowing",
+          "privacy",
+          "anonymity",
+          "security"
+        ]
       }
     ]
   }
