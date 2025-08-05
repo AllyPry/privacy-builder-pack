@@ -6,29 +6,43 @@ Thank you for your interest in contributing to the **Privacy & Ethereum Tools Di
 
 ## Goals
 
-- Maintain a **flat structure** (no categories).
+- Maintain a **flat structure**.
+- Find a relevant category
 - Include a **short description** for each tool.
-- Tag tools with relevant topics from the approved tag list (see below).
-- Keep entries clean, consistent, and alphabetically sorted by tool name.
+- Tag tools with relevant topics from the **approved tag list** (see below).
+- Keep entries clean, and consistent.
 
 ---
 
-## How to Add a Tool
+# How to Add a Tool
 
 When adding a new tool, please use the following format:
 
-```
-### [Tool Name](https://tool.url)  
-Short, clear description of what the tool does.  
-_Tags:_ `tag1`, `tag2`, `tag3`
+## Approved categories
+Only use categories from the following list.
+
+`Integrated Development Environments (IDE)`, `API Libraries`, `Ethereum Blockchain Explorers`, `Privacy-Related EIPs & Standards`, `Security Tools`, `Cryptography Libraries`, `Data Storage`, `VPN & Network Privacy`, `Browsers & Search`, `Whistleblowing & Reporting`
+
+1. Find you relevant category, and then -
+
+```json
+      {
+        "name": "Tool Name",
+        "link": "https://example.com",
+        "description": "Short, clear description of what the tool does.",
+        "tags": ["tag1", "tag2", "tag3"]
+      },
 ```
 
 Example:
 
-```
-### [SnarkyJS](https://docs.minaprotocol.com/zkapps/snarkyjs)  
-A TypeScript library for writing zkApps on Mina Protocol.  
-_Tags:_ `zero-knowledge`, `framework`, `cryptography`
+```json
+      {
+        "name": "Awesome Zero-Knowledge Proofs",
+        "link": "https://github.com/matter-labs/awesome-zero-knowledge-proofs?tab=readme-ov-file#learn",
+        "description": "A curated list of awesome things related to learning ZKP.",
+        "tags": ["zero-knowledge", "resources", "privacy"]
+      },
 ```
 
 ## Approved Tags
@@ -40,29 +54,29 @@ Only use tags from the following list. These tags make the directory searchable 
 If you feel a tag is missing, open an issue to propose it.
 ```
 
-## Formatting Rules
+# Formatting Rules
 
-1. Keep the Markdown formatting clean.
+1. Keep the JSON formatting clean.
 
 2. Ensure spacing and indentation match the existing style.
 
-3. Tool names should be sorted alphabetically.
+3. Tools should be categories accordingly.
 
 4. Use sentence case for descriptions (only the first word capitalized unless proper nouns).
 
 5. Avoid promotional language. Be factual and concise.
 
-### Don’ts
+## Don’ts
 
 - Don’t use unapproved tags.
 
-- Don’t create new categories or headings.
+- Don’t use unapproved tags.
 
 - Don’t write lengthy descriptions—keep it brief and informative.
 
 - Don’t add broken links.
 
-## Best Practices
+# Best Practices
 
 - Double-check the URL is correct and points to the official page.
 
@@ -72,11 +86,11 @@ If you feel a tag is missing, open an issue to propose it.
 
 - Check if the tool already exists to avoid duplicates.
 
-## Submitting Your Contribution
+# Submitting Your Contribution
 
 1. Fork the repository.
 
-2. Edit the tools.md file (or whatever the main tool list file is named).
+2. Edit the tools.json file.
 
 3. Follow the formatting and tagging rules above.
 
