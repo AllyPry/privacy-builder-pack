@@ -22,7 +22,7 @@ Welcome! The `tips` folder is a growing collection of practical advice from hack
 
 Please follow this structure:
 
-```
+```md
 # Your Name  
 *([@yourhandle](https://link-to-profile))*  
 
