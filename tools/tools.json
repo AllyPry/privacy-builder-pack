@@ -723,9 +723,9 @@
           "anonymity",
           "security"
         ],
-        "name": "Mullvad",
+        "name": "Mullvad VPN",
         "description": "Bridge protocol for censorship circumvention.",
-        "link": "https://mullvad.net/en"
+        "link": "https://mullvad.net/en/vpn"
       },
       {
         "tags": [
@@ -1072,9 +1072,9 @@
           "anonymity",
           "privacy"
         ],
-        "name": "Mullvad",
-        "description": "Emulates the Tor network by creating a similar fingerprint for all users, improving anonymity.",
-        "link": "https://mullvad.net/en"
+        "name": "Mullvad Browser",
+        "description": "A browser designed to minimize tracking and fingerprints.",
+        "link": "https://mullvad.net/en/browser"
       },
       {
         "tags": [
